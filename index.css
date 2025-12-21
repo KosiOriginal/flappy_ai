@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  height: 1000px;
+  background: rgb(149, 183, 218);
+}
+#player {
+    width: 40px;
+    height: 40px;
+    background: red;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+ }
+
+
+
+.bottom_kill_box{
+  bottom:0px;
+  position:fixed;
+  height: 10px;
+  width: 100%;
+  background: black;
+}
